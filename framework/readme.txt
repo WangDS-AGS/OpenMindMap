@@ -1,0 +1,6 @@
+framework组织结构说明：
+Core：核心内容，当前阶段仅为framework的核心计划
+Organization：一些使用导图架构的组织，目前仅有 卓越会
+resource_link：一些额外的但却非常有用的资源链接
+Template：导图模板的一个集合，均有XMind文件，可供使用和参考
+verification：导图考试相关的一些标准

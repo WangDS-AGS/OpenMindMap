@@ -1,6 +1,6 @@
 # OpenMindMap
 This is a project to learn and use mind map 
-## 这是一个关于思维导图的开源项目，旨在帮助这个世界上更多的人了解思维导图以及它的各种用途
+## 思维导图开源项目，旨在帮助更多人 了解思维导图是什么，为何有效，怎么用？
 
 思维导图的应用，为什么我们要学这玩意儿，有卵用呢？是的，就是这么有卵用
 
@@ -36,7 +36,7 @@ This is a project to learn and use mind map
 
 不管你是否相信，已经有人在做；做就好，越做越好；做好一件事，两步；迈出第一步，永不止步！我们已经开始了，你呢？要不要一起来
 
-## 同时这里一定要给出支持并给予OpenMindMap贡献者的名字(出于隐私保护，这里会用缩写)：
+## 以下为支持并给予OpenMindMap贡献者的名字(出于隐私保护使用缩写)：
 
 当前使用哈希码工具：http://tool.oschina.net/encrypt?type=2
 
